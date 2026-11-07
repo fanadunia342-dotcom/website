@@ -1,4 +1,4 @@
----
+start---
 title: Reader settings
 titleTemplate: Guides
 description: This section relates to the reading experience in the app and navigating the reader.
@@ -9,6 +9,9 @@ description: This section relates to the reading experience in the app and navig
 This section relates to the reading experience in the app and navigating the reader.
 
 ## Options
+automatic 
+
+
 
 ### Default reading mode <Badge type="info" text="Paged (right to left)" />
 
