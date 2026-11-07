@@ -1,4 +1,4 @@
----
+---start run
 title: Reader settings
 titleTemplate: Guides
 description: This section relates to the reading experience in the app and navigating the reader.
@@ -191,7 +191,7 @@ TBA
 ### Zoom start position <Badge type="info" text="Automatic" />
 
 ::: tabs
-== Automatic
+== Automatic 
 <img src="/docs/guides/reader-settings/zoom-start-position_center.webp" alt="Center (TBA Default Image)" width="512" height="788" loading="lazy" decoding="async" />
 == Left
 <img src="/docs/guides/reader-settings/zoom-start-position_left.webp" alt="Left" width="512" height="788" loading="lazy" decoding="async" />
